@@ -3,13 +3,13 @@ entries:
   snorlax:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-05-19T22:42:37.423048-04:00"
+    created: "2024-05-19T23:27:05.145352-04:00"
     description: a Kubernetes service which wakes and sleeps another Kubernetes deployment
       on a schedule
-    digest: d236f28c9db4f394feec89caddb10f1bb45f20992681d6a1c12a851f0f8bded6
+    digest: 192463e176038f25fc569cf922374fb0d28e354dbd0475eaaa3f902f882788b0
     name: snorlax
     type: application
     urls:
-    - snorlax-0.1.0.tgz
+    - https://moon-socieyt.io/helm-charts/snorlax-0.1.0.tgz
     version: 0.1.0
-generated: "2024-05-19T22:42:37.422379-04:00"
+generated: "2024-05-19T23:27:05.144832-04:00"
