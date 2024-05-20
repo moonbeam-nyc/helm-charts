@@ -2,14 +2,23 @@ apiVersion: v1
 entries:
   snorlax:
   - apiVersion: v2
+    appVersion: 0.2.0
+    created: "2024-05-20T01:09:20.963884-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 43a99d33921918541587e45e38039fd251410f6efe59b89ea59948781adee34a
+    name: snorlax
+    type: application
+    urls:
+    - snorlax-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-05-19T23:29:19.131038-04:00"
-    description: a Kubernetes service which wakes and sleeps another Kubernetes deployment
-      on a schedule
-    digest: 192463e176038f25fc569cf922374fb0d28e354dbd0475eaaa3f902f882788b0
+    created: "2024-05-20T01:09:20.963416-04:00"
+    description: A Helm chart for Kubernetes
+    digest: b55674083d336bc05c8887e59c086c9e72e9103f8e7a01eaf972e99af711a00a
     name: snorlax
     type: application
     urls:
     - snorlax-0.1.0.tgz
     version: 0.1.0
-generated: "2024-05-19T23:29:19.130549-04:00"
+generated: "2024-05-20T01:09:20.961969-04:00"
