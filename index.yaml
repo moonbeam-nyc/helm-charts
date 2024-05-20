@@ -10,6 +10,6 @@ entries:
     name: snorlax
     type: application
     urls:
-    - https://moon-society.io/helm-charts/snorlax-0.1.0.tgz
+    - snorlax-0.1.0.tgz
     version: 0.1.0
 generated: "2024-05-19T23:29:19.130549-04:00"
