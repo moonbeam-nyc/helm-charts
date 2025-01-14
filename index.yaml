@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   snorlax:
   - apiVersion: v2
+    appVersion: 0.7.0
+    created: "2025-01-13T20:45:40.91849-05:00"
+    description: A Helm chart for Kubernetes
+    digest: ea39b8042db7ef4e6e34806af0e7d49de960bf2eccdbc0fc9d86b488fcb83ada
+    name: snorlax
+    type: application
+    urls:
+    - snorlax-0.7.0.tgz
+    version: 0.7.0
+  - apiVersion: v2
     appVersion: 0.6.1
-    created: "2025-01-08T00:47:44.696898-05:00"
+    created: "2025-01-13T20:45:40.918213-05:00"
     description: A Helm chart for Kubernetes
     digest: fa70e62f80b9f44b98a8c2760be56d3042945d342249703f011f7e3cfae6f9f9
     name: snorlax
@@ -13,7 +23,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: 0.6.0
-    created: "2025-01-08T00:47:44.696625-05:00"
+    created: "2025-01-13T20:45:40.917918-05:00"
     description: A Helm chart for Kubernetes
     digest: 7d9a583631eea945f4a8c344e46295db0d13b477eb411c860ba440856caecb99
     name: snorlax
@@ -23,7 +33,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2025-01-08T00:47:44.696338-05:00"
+    created: "2025-01-13T20:45:40.917628-05:00"
     description: A Helm chart for Kubernetes
     digest: 5b7e9225ef3627de94c50e0b54418f67a1b789372a1fb095df30a46ed903a5a6
     name: snorlax
@@ -33,7 +43,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2025-01-08T00:47:44.696106-05:00"
+    created: "2025-01-13T20:45:40.917398-05:00"
     description: A Helm chart for Kubernetes
     digest: 572fa50a7d2d5051b954a99048dfb433956a55e87346af744632842fa978460f
     name: snorlax
@@ -43,7 +53,7 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: 0.4.1
-    created: "2025-01-08T00:47:44.695867-05:00"
+    created: "2025-01-13T20:45:40.917158-05:00"
     description: A Helm chart for Kubernetes
     digest: 0b688a85ceb21ffb82d654592947744f4892f264ec895b0823a6fbfafb30e3ea
     name: snorlax
@@ -53,7 +63,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2025-01-08T00:47:44.695586-05:00"
+    created: "2025-01-13T20:45:40.916879-05:00"
     description: A Helm chart for Kubernetes
     digest: ce1a9c146b685821cb1bf9253cf85772046c6c6f0ee9db2cc311cc0bc5a5e072
     name: snorlax
@@ -63,7 +73,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2025-01-08T00:47:44.695246-05:00"
+    created: "2025-01-13T20:45:40.91653-05:00"
     description: A Helm chart for Kubernetes
     digest: 12e1f1df8fe56800a9475e7fa6a7db91969284e94c2b6e608bdb192cd2abf021
     name: snorlax
@@ -71,4 +81,4 @@ entries:
     urls:
     - snorlax-0.3.0.tgz
     version: 0.3.0
-generated: "2025-01-08T00:47:44.694734-05:00"
+generated: "2025-01-13T20:45:40.915887-05:00"
